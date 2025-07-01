@@ -43,4 +43,4 @@ Open this link and run the simulation in Serial Monitor:
 ## 📸 Real Circuit
 
 Transmitter with MPU6050 + RF module:  
-![Circuit](circuit_image.jpg)
+![Circuit](circuit.jpg)
